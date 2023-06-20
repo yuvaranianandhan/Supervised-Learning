@@ -1,2 +1,2 @@
 # Supervised-Learning
-Task - Prediction of student score baased on their study hours
+Task - To predict scores of a student baased on their study hours
